@@ -38,7 +38,7 @@ i {font-style: italic;}
 body a {	color: #a0a0a0; }
 
 header { width: 100%; margin: 0 auto; position: relative; padding: 20px 0; margin-bottom: 20px; }
-.logo { font-size: 28px; color: #222; }
+.logo { font-size: 28px; color: #222; font-weight: bold}
 
 nav ul { margin: 0; }
 nav ul li { display: inline; margin-right: 20px; font-size: 16px; line-height: 28px; color: #333; }
