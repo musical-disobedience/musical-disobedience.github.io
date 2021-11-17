@@ -130,6 +130,14 @@ th { font-weight: bold; }
 td { text-align: left; }
 tfoot { font-style: italic; }
 
+/* .vp-video-wrapper {
+  text-align: left;
+} */
+
+.more_info{
+  text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #666;
